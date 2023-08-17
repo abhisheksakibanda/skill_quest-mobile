@@ -1,4 +1,4 @@
-# skill-quest
+# Skill Quest 
 
 Flutter project for an Online Learning Platform that suggests courses based on interests
 
